@@ -1,0 +1,2 @@
+# staticWeb
+just simple demo
